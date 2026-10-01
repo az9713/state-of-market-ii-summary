@@ -2,7 +2,7 @@
 
 [**Open the live interactive report**](https://az9713.github.io/state-of-market-ii-summary/)
 
-[![Open the live investment report: Follow the cash, find the constraint, respect the price](preview.svg)](https://az9713.github.io/state-of-market-ii-summary/)
+[![Open the live investment report: Follow the cash, find the constraint, respect the price](preview.png)](https://az9713.github.io/state-of-market-ii-summary/)
 
 Click the preview to open the working web page. GitHub README rendering does not execute an HTML application inline; GitHub Pages hosts the live report.
 
@@ -28,7 +28,7 @@ The supplied PDF was reviewed in full, including chart images and footnotes. Qua
 
 ## Publication and privacy
 
-Only the standalone report, this README, original preview artwork and deployment control files are published. The source PDF, slide/chart images, source-page captures, local notes, extraction files, account information, workstation paths, credentials and session metadata are excluded. No analytics, tracking scripts or third-party fonts are loaded by the report.
+Only the standalone report, this README, a live-page screenshot, original preview artwork and deployment control files are published. The source PDF, slide/chart images, source-page captures, local notes, extraction files, account information, workstation paths, credentials and session metadata are excluded. No analytics, tracking scripts or third-party fonts are loaded by the report.
 
 ## Copyright treatment
 
